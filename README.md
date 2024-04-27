@@ -1,9 +1,4 @@
-# PES1UG21CS329_PES1UG21CS331_PES1UG21CS338_PES1UG21CS911-Microservices-communication-using-RabbitMQ
-
-- PES1UG21CS523 - Samarth Hiremath
-- PES1UG21CS496 - Rohan Lal
-- PES1UG21CS505 - Priyadarshi
-- PES1UG21CS533 - Sanjana
+Microservices-communication-using-RabbitMQ
 
 This repository contains a containerized microservices-based Inventory Management System that utilizes RabbitMQ for interservice communication. The system is designed to handle various operations such as creating items, managing stock, processing orders, and performing health checks.
 
@@ -37,4 +32,5 @@ To run the Inventory Management System locally, follow these steps:
     docker-compose up
 
 4. Once the containers are up and running, you can access the Flask web application at http://localhost:5000.
+
 
