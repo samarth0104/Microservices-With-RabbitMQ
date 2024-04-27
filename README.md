@@ -1,4 +1,4 @@
-Microservices-communication-using-RabbitMQ
+## Microservices-communication-using-RabbitMQ
 
 This repository contains a containerized microservices-based Inventory Management System that utilizes RabbitMQ for interservice communication. The system is designed to handle various operations such as creating items, managing stock, processing orders, and performing health checks.
 
